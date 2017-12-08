@@ -1,0 +1,26 @@
+[
+        
+            {
+                "name": "tiger",
+                "dato1": "feline",
+                "dato2": "mainly asian",
+                "dato3": "Stripes"
+                
+            },
+            
+            {
+                "name": "turtle",
+                "dato1": "reptile",
+                "dato2": "Can't run, but sure can hide",
+                "dato3": "This animal is very slow"
+                 
+            },
+        
+            {
+                "name": "dog",
+                "dato1": "mammal",
+                "dato2": "omnivore",
+                "dato3": "Best friend"
+                 
+            }
+]
