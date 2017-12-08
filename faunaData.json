@@ -22,5 +22,41 @@
                 "dato2": "omnivore",
                 "dato3": "Best friend"
                  
+            },
+
+            {
+                "name": "cat",
+                "dato1": "mammal",
+                "dato2": "feline pet",
+                "dato3": "meow!"  
+            },
+
+            {
+                "name": "ant",
+                "dato1": "There are many different species of this insect around the world.",
+                "dato2": "They can be brown, red and black",
+                "dato3": "They live in soil and cavities in wood and plants"
+            },
+
+            {
+                "name": "cow",
+                "dato1": "Its stomach contains four separate compartments",
+                "dato2": "Their flautulence is responsible for a lot of the greenhouse gases.",
+                "dato3": "Their milk is very popular among human populations"
+            },
+
+            {
+                "name": "crocodile",
+                "dato1": "It eats fish, turtle and mammals.",
+                "dato2": "lives solitarily in murky, warm and quiet waters",
+                "dato3": "This reptile was around in times of the dinousaurs"
+                
+            },
+
+            {
+                "name": "bird",
+                "dato1": "There are many different species of this animal, almost everywhere in the world",
+                "dato2": "often omnivore",
+                "dato3": "peak and wings"
             }
 ]
