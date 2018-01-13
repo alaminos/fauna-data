@@ -58,5 +58,12 @@
                 "dato1": "There are many different species of this animal, almost everywhere in the world",
                 "dato2": "often omnivore",
                 "dato3": "peak and wings"
+            },
+
+            {
+                "name": "pig",
+                "dato1": "Mammal",
+                "dato2": "Loves belly scratches",
+                "dato3": "It's one of the smartest animals on Earth, equivalent to a 3 years old child"
             }
 ]
