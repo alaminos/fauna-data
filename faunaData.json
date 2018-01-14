@@ -62,8 +62,8 @@
 
             {
                 "name": "pig",
-                "dato1": "Mammal",
-                "dato2": "Loves belly scratches",
-                "dato3": "It's one of the smartest animals on Earth, equivalent to a 3 years old child"
+                "dato1": "Loves belly scratches",
+                "dato2": "It's one of the smartest animals on Earth, equivalent to a 3 years old child",
+                "dato3": "oink!"
             }
 ]
