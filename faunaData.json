@@ -63,7 +63,14 @@
             {
                 "name": "pig",
                 "dato1": "Loves belly scratches",
-                "dato2": "It's one of the smartest animals on Earth, equivalent to a 3 years old child",
+                "dato2": "It's one of the smartest animals on Earth, equivalent to a 3 year old child",
                 "dato3": "oink!"
+            },
+        
+            {
+                "name": "flea",
+                "dato1": "an insect",
+                "dato2": "there used to be circuses where they acted",
+                "dato3": "cats and dogs are like 24/7 buses for these tiny tiny creatures"
             }
 ]
